@@ -1,7 +1,7 @@
 # React-JS-Task
 
 I have used the following approach:
- - Convert the array of airports into a graph.
+ - Converted the array of airports into a graph.
  - Applied Dijkstra Algorithm to find the lowest cost path amongst the starting and ending airports.
  
  To run the file please use the following command:
